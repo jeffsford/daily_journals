@@ -1,3 +1,3 @@
-<h1>LJ Code 201 - Day 5</h1>
+# LJ Code 301 - Day 3
 
-Brian Nations was our substitute teacher today and we learned about CSS colors, text, and images. It was good to dig a little deeper on these topics than we had previously. The larger perspective that he brought was also very helpful. He said that you can never stop learning in this industry, and we shouldn't get discouraged by not understanding things at a given time. The additional git instruction was much appreciated.
+The code review and lecture today we very good. When Nick reviewed Michael's portfolio, he built from scratch something that we had been using elements of this week.  It was very helpful, and the kind of reinforcement I need to learn the new material.
